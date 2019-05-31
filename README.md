@@ -10,7 +10,7 @@ This is a repository for the game Sugar Mario, which is a serious game intended 
 the regulation of blood sugar to people with diabetes, through the consumption of food, 
 and the use of insulin. 
 
-[Link to the repository in gitpod](gitpod.io/#https://github.com/ionio-seriousgames/Sugar_Mario)
+[Link to the repository in gitpod](https://gitpod.io/#https://github.com/ionio-seriousgames/Sugar_Mario)
 
 The link above leads to the gitpod of the repository, alternatively, one can open any Github repository by 
 prefixing any GitHub URL with gitpod.io/#
@@ -24,7 +24,7 @@ The game's introduction can be seen the same way, once you select the file **ind
 Το παιχνίδι Sugar Mario είναι ένα serious game με το σκοπό να διδάξει την ρύθμιση των επιπέδων 
 ζαχάρου στο αίμα στους ανθρώπους με διαβήτη, μέσω της κατανάλωσης φαγητού και την χρήση ινσουλίνης. 
 
-[Σύνδεσμος για το αποθετήριο σε gitpod](gitpod.io/#https://github.com/ionio-seriousgames/Sugar_Mario)
+[Σύνδεσμος για το αποθετήριο σε gitpod](https://gitpod.io/#https://github.com/ionio-seriousgames/Sugar_Mario)
 
 Ο αποπάνω σύνδεσμος οδηγεί στο gitpod του αποθετηρίου. Εναλλακτικά, οποιοσδήποτε μπορεί να ανοίξει ένα αποθετήριο του github
 προσθέτωντας gitpod.io/# πριν από κάθε διεύθυνση github. 
